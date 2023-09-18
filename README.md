@@ -1,8 +1,11 @@
 # Scientific Computing Projects
-Scientific Computing exam projects at University of Trento - Language: English. <br>
-Titles: <em>Analysis of Arnoldi-PET algorithm for computing PageRank</em>.
+Collection of projects for Scientific Computing exam at University of Trento - Language: English. <br>
+Titles: 
+- <em>Analysis of admissible strings</em>
+- <em>Simulation of SPET on DNA sequences</em>
+- <em>Implementation of multigrid methods</em>
 
-The source code in Python can be found in [Code](https://github.com/letizia-dachille/scientific-computing-project/blob/main/Code/) folder. You must create a folder named <em>Txt</em> in the main folder, where output files will be placed.
+The source code in Python can be found in [Code](https://github.com/letizia-dachille/scientific-computing-project-msc/blob/main/Code/) folder. You must create a folder named <em>Txt</em> in the main folder, where output files will be placed.
 Then, it is sufficient to run the file [main_script.m](https://github.com/letizia-dachille/scientific-computing-project/blob/main/Code/main_script.m).<br>
 The datasets used can be found in [Test_matrices](https://github.com/letizia-dachille/scientific-computing-project/blob/main/Test_matrices/) folder. 
 
