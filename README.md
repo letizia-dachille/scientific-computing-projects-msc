@@ -1,5 +1,5 @@
 # Scientific Computing Projects
-Collection of projects for Scientific Computing exam at University of Trento - Language: English. <br><br>
+Collection of projects for Scientific Computing exam at University of Trento - Language: English. <br>
 
 Titles: 
 - <em>Analysis of admissible strings</em>
